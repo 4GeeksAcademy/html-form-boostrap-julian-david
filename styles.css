@@ -1,0 +1,22 @@
+.container{
+    
+}
+.title{
+    padding: 10px;
+    display: flex;
+    background-color: lightgray;
+    border-color:1px lightgray;
+}
+.some-fields{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.some-fields-1{
+    background-color: pink;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
